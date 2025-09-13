@@ -172,3 +172,14 @@ value = rate_mean %>%
 
 write.csv(value, file="Figures/Fits_linear_model_Fig.1.csv")
  
+
+#Write Intercept and slope to file
+#Fitting a linear model to the rate data
+value_2 = rate_mean %>% 
+  dplyr::filter(lacY > 0.006) %>% #remove noise 
+  group_by( preculture,addition) %>%
+  do(tidy(lm(rate ~ lacY, data = .)))
+
+
+
+write.csv(value_2, file="Figures/Interc_Slope_linear_model_Fig.1.csv")

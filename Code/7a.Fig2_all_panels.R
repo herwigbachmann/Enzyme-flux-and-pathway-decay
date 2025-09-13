@@ -47,6 +47,13 @@ value = rate_mean %>%
 
 write.csv(value, file="Figures/Fits_linear_model_Mn_data.csv")
 
+#Write Intercept and slope to file
+value_2 = rate_mean %>% 
+  group_by(manganese,strain) %>%
+  do(tidy(lm(rate ~ lacY, data = .)))
+
+write.csv(value_2, file="Figures/Interc_Slope_linear_model_Mn_data.csv")
+
 pal <- wes_palette("Zissou1", 7, type = "continuous")
 
 ggplot(a_mean, aes(x=time/24, y=lacY, color = as.factor(manganese))) +

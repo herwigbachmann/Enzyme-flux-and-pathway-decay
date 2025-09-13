@@ -73,14 +73,20 @@ value = rate_mean %>%
 
 write.csv(value, file="Figures/Fits_linear_model_Mn-ATPase_data.csv")
 
+#write intercept and slope data to file
 
+value_2 = rate_mean %>% 
+  group_by(manganese,Bgal) %>%
+  do(tidy(lm(rate ~ lacY, data = .)))
+
+write.csv(value_2, file="Figures/Interc_Slope_linear_model_Mn-ATPase_data.csv")
 
 
 #Supplementary Figure S1----
 pdf("Figures/Fig.S1.pdf",width=11,height=6)
 
 FigS1<-ggplot(na.omit(rate_mean[rate_mean$lacY>0.006 & rate_mean$rate>-4,]), aes(x=lacY, y=rate, color = as.factor(manganese))) +
- # geom_ribbon(aes(ymin=CI_lower,ymax=CI_upper,fill=as.factor(manganese)),color=NA,alpha=0.4)+
+  geom_ribbon(aes(ymin=CI_lower,ymax=CI_upper,fill=as.factor(manganese)),color=NA,alpha=0.4)+
   geom_point()+
   geom_smooth(method="lm", linetype="dashed",linewidth = 0.5,se=FALSE,fullrange=TRUE)+
   facet_wrap(.~Bgal,ncol=5)+
@@ -98,13 +104,12 @@ FigS1<-ggplot(na.omit(rate_mean[rate_mean$lacY>0.006 & rate_mean$rate>-4,]), aes
 # geom_line(aes(x=median, y=mean, color=as.factor(manganese))) +
 
 print(FigS1)
-FigS1
 
 dev.off()
 
 pdf("Figures/Fig.S1_grid.pdf",width=11,height=6)
 FigS1_grid<-ggplot(na.omit(rate_mean[rate_mean$lacY>0.005 & rate_mean$rate>-4,]), aes(x=lacY, y=rate, color = as.factor(manganese))) +
-  # geom_ribbon(aes(ymin=CI_lower,ymax=CI_upper,fill=as.factor(manganese)),color=NA,alpha=0.4)+
+   geom_ribbon(aes(ymin=CI_lower,ymax=CI_upper,fill=as.factor(manganese)),color=NA,alpha=0.4)+
   geom_point()+
   geom_smooth(method="lm", linetype="dashed",linewidth = 0.5,se=FALSE,fullrange=TRUE)+
   facet_grid(manganese~Bgal)+
@@ -189,7 +194,6 @@ Fig3 = ggplot(fit_short,aes(x=lacadd,y=Intercept))+
   geom_smooth(method = lm,se = FALSE)
 
 print(Fig3)
-Fig3
 dev.off()
 
 fit_s<-fit_short
