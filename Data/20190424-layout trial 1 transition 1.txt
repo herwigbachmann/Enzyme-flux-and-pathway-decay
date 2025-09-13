@@ -1,0 +1,252 @@
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	basic																							
+A	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+B	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+C	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+D	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+E	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+F	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+G	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+H	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+I	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+J	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+K	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+L	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+M	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+N	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+O	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+P	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample	sample
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	Strain																							
+A	none	none	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712		
+B	none	none	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712		
+C	none	none	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712		
+D	none	none	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712		
+E	none	none	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712		
+F	none	none	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712		
+G	none	none	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712		
+H	none	none	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712		
+I	none	none	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712		
+J	none	none	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712		
+K	none	none	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712		
+L	none	none	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712	NCDO712		
+M	none	none																						
+N	none	none																						
+O																								
+P																								
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	Manganese																							
+A	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+C	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+D	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+E	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+F	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+G	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+H	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+J	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+K	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+L	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+M	0	0																						
+N	0	0																						
+O																								
+P																								
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	Medium 																							
+A	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc		
+B	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc		
+C	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc		
+D	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc		
+E	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc		
+F	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc		
+G	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc		
+H	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc		
+I	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc		
+J	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc		
+K	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc		
+L	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc	cdmpc		
+M	cdmpc	cdmpc																						
+N	cdmpc	cdmpc																						
+O																								
+P																								
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	csource_percent																							
+A	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1		
+B	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1		
+C	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1		
+D	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1		
+E	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1		
+F	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1		
+G	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1		
+H	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1		
+I	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1		
+J	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1		
+K	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1		
+L	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1		
+M	0	0																						
+N	0	0																						
+O																								
+P																								
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	initial_pH																							
+A	7	7	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5		
+B	7	7	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5		
+C	6.4	6.4	6.5	6.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5		
+D	6.4	6.4	6.5	6.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5		
+E	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5		
+F	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5		
+G	6	6	6.5	6.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5		
+H	6	6	6.5	6.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5		
+I	5.5	5.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5		
+J	5.5	5.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5	6.5		
+K	5.4	5.4	6.5	6.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5		
+L	5.4	5.4	6.5	6.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5	5.5		
+M	4	4																						
+N	4	4																						
+O																								
+P																								
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	inoc_density																							
+A			1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07		
+B			1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07		
+C			1.00E+07	1.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07		
+D			1.00E+07	1.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07		
+E			1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07		
+F			1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07		
+G			1.00E+07	1.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07		
+H			1.00E+07	1.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07		
+I			1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07		
+J			1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07	1.00E+07		
+K			1.00E+07	1.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07		
+L			1.00E+07	1.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07	2.00E+07		
+M																								
+N																								
+O																								
+P																								
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	antibiotics																							
+A			ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5		
+B			ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5		
+C			ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5		
+D			ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5		
+E			ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5		
+F			ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5		
+G			ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5		
+H			ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5		
+I			ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5		
+J			ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5		
+K			ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5		
+L			ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5	ery_5		
+M																								
+N																								
+O																								
+P																								
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	final_vol																							
+A	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50		
+B	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50		
+C	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50		
+D	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50		
+E	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50		
+F	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50		
+G	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50		
+H	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50		
+I	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50		
+J	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50		
+K	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50		
+L	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50	50		
+M	50	50																						
+N	50	50																						
+O																								
+P																								
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	preculture																							
+A			glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose		
+B			glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose		
+C			glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose		
+D			glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose	glucose		
+E			galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose		
+F			galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose		
+G			galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose		
+H			galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose	galactose		
+I			lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose		
+J			lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose		
+K			lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose		
+L			lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose	lactose		
+M																								
+N																								
+O																								
+P																								
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	addition1																							
+A			glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose		
+B			glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose		
+C			galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine		
+D			galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine		
+E			glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose		
+F			glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose		
+G			galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine		
+H			galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine		
+I			glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose		
+J			glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose	glucose	glucose	lactose	lactose		
+K			galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine		
+L			galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine	galactose	galactose	arginine	arginine		
+M																								
+N																								
+O																								
+P																								
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	addition2																							
+A							glucose	glucose	lactose	lactose	galactose	galactose	arginine	arginine	lactose	lactose	glucose	glucose	arginine	arginine	galactose	galactose		
+B							glucose	glucose	lactose	lactose	galactose	galactose	arginine	arginine	lactose	lactose	glucose	glucose	arginine	arginine	galactose	galactose		
+C							galactose	galactose	arginine	arginine	lactose	lactose	glucose	glucose	arginine	arginine	galactose	galactose	glucose	glucose	lactose	lactose		
+D							galactose	galactose	arginine	arginine	lactose	lactose	glucose	glucose	arginine	arginine	galactose	galactose	glucose	glucose	lactose	lactose		
+E							glucose	glucose	lactose	lactose	galactose	galactose	arginine	arginine	lactose	lactose	glucose	glucose	arginine	arginine	galactose	galactose		
+F							glucose	glucose	lactose	lactose	galactose	galactose	arginine	arginine	lactose	lactose	glucose	glucose	arginine	arginine	galactose	galactose		
+G							galactose	galactose	arginine	arginine	lactose	lactose	glucose	glucose	arginine	arginine	galactose	galactose	glucose	glucose	lactose	lactose		
+H							galactose	galactose	arginine	arginine	lactose	lactose	glucose	glucose	arginine	arginine	galactose	galactose	glucose	glucose	lactose	lactose		
+I							glucose	glucose	lactose	lactose	galactose	galactose	arginine	arginine	lactose	lactose	glucose	glucose	arginine	arginine	galactose	galactose		
+J							glucose	glucose	lactose	lactose	galactose	galactose	arginine	arginine	lactose	lactose	glucose	glucose	arginine	arginine	galactose	galactose		
+K							galactose	galactose	arginine	arginine	lactose	lactose	glucose	glucose	arginine	arginine	galactose	galactose	glucose	glucose	lactose	lactose		
+L							galactose	galactose	arginine	arginine	lactose	lactose	glucose	glucose	arginine	arginine	galactose	galactose	glucose	glucose	lactose	lactose		
+M																								
+N																								
+O																								
+P																								
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	contaminated																							
+A			no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no		
+B			no	no	no	no	no	no	no	no	no	no	no	no	no	no	yes	no	no	no	no	no		
+C			no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no		
+D			no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no		
+E			no	yes	no	no	yes	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no		
+F			no	no	no	yes	yes	yes	yes	no	no	yes	no	no	no	yes	no	no	no	no	no	no		
+G			no	no	no	no	yes	no	no	no	no	no	no	no	no	no	no	no	no	yes	no	no		
+H			no	no	no	no	yes	yes	no	no	no	yes	no	no	no	no	no	no	no	no	no	no		
+I			no	no	no	yes	yes	yes	no	yes	yes	no	no	no	yes	yes	no	no	no	no	yes	no		
+J			yes	no	no	no	yes	yes	no	yes	yes	yes	no	no	no	yes	no	no	no	no	no	yes		
+K			yes	no	no	no	no	yes	no	no	no	no	no	no	no	no	no	no	yes	no	no	no		
+L			no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no		
+M																								
+N																								
+O																								
+P																								
+#	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+>	transition																							
+A			1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2		
+B			1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2		
+C			1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2		
+D			1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2		
+E			1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2		
+F			1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2		
+G			1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2		
+H			1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2		
+I			1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2		
+J			1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2		
+K			1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2		
+L			1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2		
+M																								
+N																								
+O																								
+P																								
